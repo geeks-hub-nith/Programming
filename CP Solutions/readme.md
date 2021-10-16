@@ -1,13 +1,15 @@
 Keep these things in mind when adding a solution :
 
-1) Your file structure should be like this ->
+* The folder structure must remain as follows:
+<pre>
+CP Solutions/
+├─── Codeforces/
+│       └─── 1599A.cpp     
+└─── Codechef
+</pre>
 
-		**Link of the Question**
+* Check if a problem is already present, before adding it.
 
-		Your code starts from here
+* The first line of code must contain a link to corresponding question.
 
-2) Naming should be like -> 
-
-		(****)Problem-Code.cpp 
-
-Where, **** should be replaced with CP Site (Egs: CF, CC, etc..)
+* The name of added file must be the problem code and it must added in the relevant folder(must be created if not already present).
