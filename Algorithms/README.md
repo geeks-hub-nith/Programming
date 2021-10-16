@@ -1,4 +1,4 @@
-Keep these things in mind when adding an algorith :
+Keep these things in mind when adding an algorithm :
 
 * The folder structure must remain as follows:
 <pre>
