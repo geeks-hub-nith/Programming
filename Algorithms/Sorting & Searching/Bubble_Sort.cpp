@@ -1,15 +1,11 @@
 /*
     Author : prashant_th18
-                            :)
+    Link: https://www.geeksforgeeks.org/bubble-sort/
 */
 // Bubble Sort
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
-#define ull unsigned long long
-#define ll long long
-#define pb push_back
-#define nline "\n"
-#define space " "
 void BubbleSort(vector<int> &v)
 {
     int size = (int)v.size();
@@ -26,7 +22,7 @@ void BubbleSort(vector<int> &v)
         }
     }
 }
-void solve()
+int main()
 {
     int n;
     cin >> n;
@@ -38,24 +34,7 @@ void solve()
     BubbleSort(v);
     for(auto val : v)
     {
-        cout << val << space;
+        cout << val << " ";
     }
-}
-int main()
-{
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-    freopen("error.txt", "w", stderr);
-#endif
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int t = 1;
-    while (t--) {
-        solve();
-        cout << nline;
-    }
-  
-    cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl;
     return 0;
 }
