@@ -20,21 +20,21 @@ https://hacktoberfest.digitalocean.com/</p>
 
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
-```markdown
+```bash
 git clone https://github.com/your-username/HacktoberFest2021.git
 ```
 * change the present working directory
-```markdown
+```bash
 cd HacktoberFest2021
 ```
 * Add/Create your project to the specific folder as described in what you can contribute section.
 * Make a new branch
-```markdown
+```bash
 git checkout -b branch-name
 ```
 * Make change in the repository with the new branch.
 * push the changes.
-```markdown
+```bash
 git add .
 git commit -m "Your commit Message"
 git push origin branch-name
