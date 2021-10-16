@@ -22,12 +22,12 @@ https://hacktoberfest.digitalocean.com/</p>
 
 * Clone the forked repository to your local machine.
 ```bash
-git clone https://github.com/your-username/C-Plus-Plus.git
+git clone https://github.com/your-username/Programming/.git
 ```
 
 * change the present working directory
 ```bash
-cd C-Plus-Plus
+cd Programming/
 ```
 
 * Add/Create your project to the specific folder as described in what you can contribute section.
