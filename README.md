@@ -18,28 +18,36 @@ https://hacktoberfest.digitalocean.com/</p>
 ------
 ### How to Contribute to this repository
 
-* Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
+* **Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)**
+
 * Clone the forked repository to your local machine.
 ```bash
-git clone https://github.com/your-username/HacktoberFest2021.git
+git clone https://github.com/your-username/C-Plus-Plus.git
 ```
+
 * change the present working directory
 ```bash
-cd HacktoberFest2021
+cd C-Plus-Plus
 ```
+
 * Add/Create your project to the specific folder as described in what you can contribute section.
+
 * Make a new branch
 ```bash
 git checkout -b branch-name
 ```
+
 * Make change in the repository with the new branch.
+
 * push the changes.
 ```bash
 git add .
 git commit -m "Your commit Message"
 git push origin branch-name
 ```
+
 * Make a pull request.
+
 * Star the repository.
 
 ### NOTE
