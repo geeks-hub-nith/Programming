@@ -1,3 +1,10 @@
+/*
+    Author :- Sanchit Sharma (sanchitsharma543@gmail.com)
+    Reference :- https://www.geeksforgeeks.org/merge-sort/
+*/
+
+// Merge-Sort Algorithm
+
 #include <iostream>
 using namespace std;
 
@@ -53,6 +60,8 @@ void merge_sort(int A[], int start, int end) {
     }
 
 }
+
+// This algorithm sorts an array in non-decreasing order with worst case time complexity of O(nlogn).
 
 int main() {
     int arr[5] = {-1, 4, -2, 2, 11};
