@@ -1,3 +1,10 @@
+/*
+Name- Maheshwar
+Reference- https://cp-algorithms.com/data_structures/sqrt_decomposition.html
+Language- c++
+*/
+
+
 void remove(idx);  // TODO: remove value at idx from data structure
 void add(idx);     // TODO: add value at idx from data structure
 int get_answer();  // TODO: extract the current answer of the data structure
