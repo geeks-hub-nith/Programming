@@ -1,4 +1,5 @@
-//@aryanpathania
+// Link: https://codeforces.com/contest/315/problem/A
+// Author: aryanpathania
 #include <bits/stdc++.h>
 #define MOD 1'000'000'007
 //#define MOD = 998'244'353
