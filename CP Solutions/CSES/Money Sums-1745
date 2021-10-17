@@ -1,0 +1,63 @@
+//Link-   https://cses.fi/problemset/task/1745
+//AUTHOR- SHIVANSH
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n, sum = 0;
+    scanf("%d", &n);
+    int arr[n + 1];
+    for (int i = 1; i <= n; i++)
+    {
+        scanf("%d", &arr[i]);
+        sum = sum + arr[i];
+    }
+    int dp[n + 2][sum + 2];
+    dp[0][0] = 1;
+    for (int i = 1; i <= sum; i++)
+    {
+        dp[0][i] = 0;
+    }
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 0; j <= sum; j++)
+        {
+            dp[i][j] = 0;
+        }
+    }
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 0; j <= sum; j++)
+        {
+            int l = j - arr[i];
+            if (l >= 0)
+            {
+                if (dp[i - 1][j] == 1 || (dp[i - 1][l] == 1))
+                {
+                    dp[i][j] = 1;
+                }
+            }
+            else
+            {
+                dp[i][j] = dp[i - 1][j];
+            }
+        }
+    }
+    int u = 0;
+    int ar[sum + 2];
+    for (int i = 1; i <= sum; i++)
+    {
+        if (dp[n][i] == 1)
+        {
+            u++;
+            ar[u] = i;
+        }
+    }
+    printf("%d\n", u);
+    for (int i = 1; i <= u; i++)
+    {
+        printf("%d ", ar[i]);
+    }
+    return 0;
+}
