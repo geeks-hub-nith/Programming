@@ -1,3 +1,6 @@
+// Link: https://codeforces.com/contest/1579/problem/E2
+// Author: jesuswr
+
 #include <iostream>
 #include <vector>
 #include <queue>
