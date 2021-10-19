@@ -6,8 +6,8 @@
 Format for this is 
 ```
 {
-"name":"your name",
-"url":"your profile url",
-"about":"Brief information about you"
+  "name":"your name",
+  "url":"your profile url",
+  "about":"Brief information about you"
 }
 ```
