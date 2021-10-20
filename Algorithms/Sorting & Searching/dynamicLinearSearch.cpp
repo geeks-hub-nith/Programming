@@ -12,7 +12,7 @@ using namespace std;
 
 int main(){
 
-    // Creatig a dynamic array
+    // Creating a dynamic array
     int n,*arr,key,i;
 
     //Entering the size of array
@@ -22,12 +22,12 @@ int main(){
 
     //Inserting the values in the array
     cout<<"Enter the values in the array: ";
-    for(int i=0;i<n;i++){
-        cin>>*(arr+i);
+    for(int j=0;j<n;j++){
+        cin>>*(arr+j);
     }
 
     //Entering the search value
-    cout<<"Enter the value to seacrh: ";
+    cout<<"Enter the value to search: ";
     cin>>key;
 
     //Traversing the array to search the value which was entered by the user
