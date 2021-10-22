@@ -1,4 +1,6 @@
 # This folder contains Information about all our contributers
+## [Contributors Dynamic site](https://csb-ns5cv.netlify.app/)
+## [Contributors Static site](https://lekhit.github.io/csb-ns5cv/) 
 ## To add your details
 - make a folder with your name eg <my_name.md>
 - your are free to decide what information your <my_name.md> will have.
