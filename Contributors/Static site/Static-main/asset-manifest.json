@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://lekhit.github.io/csb-ns5cv/static/css/main.2ec8b1da.chunk.css",
+    "main.js": "https://lekhit.github.io/csb-ns5cv/static/js/main.996f98f1.chunk.js",
+    "main.js.map": "https://lekhit.github.io/csb-ns5cv/static/js/main.996f98f1.chunk.js.map",
+    "runtime-main.js": "https://lekhit.github.io/csb-ns5cv/static/js/runtime-main.a7488486.js",
+    "runtime-main.js.map": "https://lekhit.github.io/csb-ns5cv/static/js/runtime-main.a7488486.js.map",
+    "static/css/2.c0897e43.chunk.css": "https://lekhit.github.io/csb-ns5cv/static/css/2.c0897e43.chunk.css",
+    "static/js/2.44b0e230.chunk.js": "https://lekhit.github.io/csb-ns5cv/static/js/2.44b0e230.chunk.js",
+    "static/js/2.44b0e230.chunk.js.map": "https://lekhit.github.io/csb-ns5cv/static/js/2.44b0e230.chunk.js.map",
+    "index.html": "https://lekhit.github.io/csb-ns5cv/index.html",
+    "static/css/2.c0897e43.chunk.css.map": "https://lekhit.github.io/csb-ns5cv/static/css/2.c0897e43.chunk.css.map",
+    "static/css/main.2ec8b1da.chunk.css.map": "https://lekhit.github.io/csb-ns5cv/static/css/main.2ec8b1da.chunk.css.map",
+    "static/js/2.44b0e230.chunk.js.LICENSE.txt": "https://lekhit.github.io/csb-ns5cv/static/js/2.44b0e230.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7488486.js",
+    "static/css/2.c0897e43.chunk.css",
+    "static/js/2.44b0e230.chunk.js",
+    "static/css/main.2ec8b1da.chunk.css",
+    "static/js/main.996f98f1.chunk.js"
+  ]
+}
