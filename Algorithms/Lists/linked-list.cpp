@@ -1,5 +1,7 @@
 /*
- Type: Linked List 
+ author: steven anthony  
+ brief: linked list
+ advantage: gives ability to traverse a list in forward direction 
 */
 
 #include <iostream>
