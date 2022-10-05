@@ -1,3 +1,4 @@
+// Link: https://www.geeksforgeeks.org/quick-sort/
 #include<iostream>
 using namespace std;
 void swapp(int *a,int *b)
