@@ -1,7 +1,9 @@
 /*
     Author - Sahil Verma (sahil19-19)
     link - https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/?ref=lbp
-         - https://www.javatpoint.com/os-sjf-scheduling
+         - https://www.javatpoint.com/os-srtf-scheduling-algorithm
+
+    also called - Shortest Remaining Time First (SRTF)
 */
 #include<bits/stdc++.h>
 using namespace std;
