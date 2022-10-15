@@ -12,10 +12,10 @@ int main(){
         string k;
         cin >> k;
         if (k=="++X" || k=="X++"){ // Possibilities of adding to a variable
-            x+=1;
+            x++;
         }
         else{ // Otherwise it's subtraction
-            x-=1;
+            x--;
         }
     }
     cout << x;
