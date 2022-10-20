@@ -17,5 +17,11 @@ Graphics programming in C used to drawing various geometrical shapes(rectangle, 
 
 
 # TODOs
-1. add c++ bindings for pythonic files
-2. add some examples to use the new bindings
+- [x] add c++ bindings for pythonic files
+- [ ] add some examples to use the new bindings
+  - [ ] line 
+    - [ ] dda
+    - [ ] breshman
+  - [ ] circle
+  - [ ] ellipse
+- [ ] add documentation 
