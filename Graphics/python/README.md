@@ -14,3 +14,8 @@ Graphics programming in C used to drawing various geometrical shapes(rectangle, 
 - open source so highly customisable
 ## screen short
 ![Screenshot 2022-10-18 at 10 51 06 PM](https://user-images.githubusercontent.com/82832791/196933424-c86e9dff-d964-4563-8363-a496e75f427e.png)
+
+
+# TODOs
+1. add c++ bindings for pythonic files
+2. add some examples to use the new bindings
