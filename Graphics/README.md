@@ -14,14 +14,24 @@ Graphics programming in C used to drawing various geometrical shapes(rectangle, 
 - open source so highly customisable
 ## screen short
 ![Screenshot 2022-10-18 at 10 51 06 PM](https://user-images.githubusercontent.com/82832791/196933424-c86e9dff-d964-4563-8363-a496e75f427e.png)
+### examples
+- dda
+![Screenshot 2022-10-22 at 8 46 40 PM](https://user-images.githubusercontent.com/82832791/197348532-aeddca8c-8994-4506-a367-ba4451a99611.png)
 
+- breshman
+![Screenshot 2022-10-22 at 8 39 41 PM](https://user-images.githubusercontent.com/82832791/197348544-e521bb8d-3fa7-4edb-8f8a-69a5c6002d4b.png)
+- circle
+![Screenshot 2022-10-22 at 8 56 17 PM](https://user-images.githubusercontent.com/82832791/197348579-85f62159-4b8e-4fc2-874d-769288b47a21.png)
+
+- ellipse
+![Screenshot 2022-10-22 at 9 18 28 PM](https://user-images.githubusercontent.com/82832791/197348621-aecdbf9b-743a-4634-a7ca-9592d4ca7f94.png)
 
 # TODOs
 - [x] add c++ bindings for pythonic files
-- [ ] add some examples to use the new bindings
-  - [ ] line 
-    - [ ] dda
-    - [ ] breshman
-  - [ ] circle
-  - [ ] ellipse
+- [x] add some examples to use the new bindings
+  - [x] line 
+    - [x] dda
+    - [x] breshman
+  - [x] circle
+  - [x] ellipse
 - [ ] add documentation 
