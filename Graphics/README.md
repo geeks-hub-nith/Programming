@@ -2,7 +2,15 @@
 Graphics programming in C used to drawing various geometrical shapes(rectangle, circle eclipse etc), use of mathematical function in drawing curves, coloring an object with different colors and patterns and simple animation programs like jumping ball and moving cars.
 
 ---
-# Limitations
+# How to use
+1. clone this folder
+2. create new file in this folder itself or you can add graphics to include files of your computer
+3. ```include "graphics.cpp"```
+4. use put_points(x,y) to plot the points
+5. start the python display change folder in terminal to python folder in this folder then ``` python3 graphicss.py```
+6. press the plot button to see result
+---
+# Limitations of graphics.h (old)
 - incompetable with mac/linux based system
 - high dependance on turbo c compiler
 - not updated any more
@@ -34,4 +42,4 @@ Graphics programming in C used to drawing various geometrical shapes(rectangle, 
     - [x] breshman
   - [x] circle
   - [x] ellipse
-- [ ] add documentation 
+- [x] add documentation 
